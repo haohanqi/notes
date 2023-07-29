@@ -218,5 +218,5 @@ export async function getStaticProps() {
 
 下一篇我们一起开看看 Next 13更新之后的新功能 App Router 和 server component。
 
-   
+![[Pasted image 20230729120620.png]]
    
